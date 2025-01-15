@@ -154,10 +154,6 @@ During the evaluation, be prepared to:
 
 This project is part of the 42 School curriculum. The requirements might change over time, so make sure to always refer to the official subject for the most up-to-date information.
 
-## 🤝 Contributing
-
-If you find any issues or would like to contribute to this project, please feel free to submit a pull request or open an issue.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
